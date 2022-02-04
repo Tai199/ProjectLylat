@@ -1,4 +1,0 @@
-
-<Version: 1.01>
-/data/test.zip https://d1tvmj3dyb0q0v.cloudfront.net/installer/3113276/908627187910
-<End of Version>
